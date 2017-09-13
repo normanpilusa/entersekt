@@ -1,0 +1,24 @@
+Readme
+======
+This application could be much better. 
+I made it very simple, just to demonstrate functionality and learning ability.
+Answering the following questions will be a great start, when considering making improvements to the web application.
+1. What inputs will the client give to the interface?
+2. Is the client remote or local?
+3. Are there specific attributes you are interested in?
+4. " ..directory size of at least 1 000 000", what is the unit?
+5. Who will specify the directory to be listed? Hard coded or not?
+6. Will the client be able to navigate through the listing or they will just see text?
+7. Does formatting matter?
+8. Should sub directories be expanded or not?
+
+
+Instructions to test application
+--------------------------------
+1. Build and start web appilication, run the following script
+	bash run.sh
+
+2. View by going to this url to
+	http://172.17.0.2:8080/entersekt/webresources/entersekt
+
+
